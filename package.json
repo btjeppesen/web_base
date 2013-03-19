@@ -1,0 +1,19 @@
+{
+	"name": "web_base",
+	"preferGlobal": true,
+	"version": "0.0.1",
+	"author": "Brian Amaro-Jeppesen <brian@amarojeppesens.com>",
+	"description": "The master build used in all Amaro-Jeppesens sites.",
+	"contributors": [
+		{
+			"name": "Brian Amaro-Jeppesen",
+			"email": "brian@amarojeppesens.com"
+		}
+	],
+	"devDependencies": {
+		"jake": ">=0.5.x",
+		"jshint": ">=1.0.x",
+		"nodeunit": ">=0.7.x"
+	},
+	"engine": "node >= 0.10.0"
+}

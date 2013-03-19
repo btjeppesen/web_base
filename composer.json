@@ -1,0 +1,14 @@
+{
+	"name"             : "amaro_jeppesens/web_base",
+	"description"      : "description_text",
+	"minimum-stability": "stable",
+	"authors"          : [
+		{
+			"name" : "Brian Jeppesen",
+			"email": "brian@amarojeppesens.com"
+		}
+	],
+    "require": {
+        "phpunit/phpunit": "3.7.18"
+    }
+}
